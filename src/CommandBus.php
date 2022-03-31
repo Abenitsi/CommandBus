@@ -1,5 +1,5 @@
 <?php
-namespace CommandBus;
+namespace Abenitsi\CommandBus;
 
 use Invoker\Exception\InvocationException;
 use Invoker\Exception\NotCallableException;
