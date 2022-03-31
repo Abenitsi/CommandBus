@@ -1,5 +1,5 @@
 {
-    "name": "albert/command-bus",
+    "name": "abenitsi/command-bus",
     "description": "CommnadBus for PHP",
     "type": "library",
     "require": {
