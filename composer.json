@@ -1,0 +1,21 @@
+{
+    "name": "albert/command-bus",
+    "description": "CommnadBus for PHP",
+    "type": "library",
+    "require": {
+        "php-di/invoker": "^2.3",
+        "container-interop/container-interop": "^1.2"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Albert\\CommandBus\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Albert",
+            "email": "albertbenitez92@gmail.com"
+        }
+    ]
+}
